@@ -672,7 +672,7 @@ footer .footer-copyright {
 }
 
 .go-top:hover {
-    background: #bfba55;
+    background: #dfcfba;
     color: #ffffff;
 }
 
@@ -712,8 +712,8 @@ footer .footer-copyright {
 }
 
 .social-icon li a:hover {
-    border-color: #bfba55;
-    color: #bfba55;
+    border-color: #dfcfba;
+    color: #dfcfba;
     transform: scale(1.1);
 }
 
