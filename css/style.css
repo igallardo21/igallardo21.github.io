@@ -107,10 +107,6 @@ a:hover, a:active, a:focus {
   height: 35vh;
 }
 
-.main-index{
-  height: 75vh;
-}
-
 
 .overlay {
   width: 100%;
@@ -278,11 +274,7 @@ a:hover, a:active, a:focus {
 
 .main-home {
   background: url('../images/home-bg.jpg') no-repeat;
-  height: 100vh;
-}
-
-.main-index {
-  background: url('../images/home-bg.jpg') no-repeat;
+  height: 75vh;
 }
 
 .main-about {
@@ -732,7 +724,7 @@ footer .footer-copyright {
 
 @media (max-width: 980px) {
 
-  .main-index  {
+  .main-home  {
     height: 45vh;
   }
 
