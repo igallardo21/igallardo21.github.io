@@ -338,6 +338,9 @@ a:hover, a:active, a:focus {
 
 #about .col-md-6 img {
   padding: 22px 0px 22px 22px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  width: 150px;
 }
 
 #about .col-md-4 {
