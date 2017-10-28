@@ -50,6 +50,7 @@ p {
     font-weight: 300;
     line-height: 26px;
     letter-spacing: 0.2px;
+	text-align: center;
 }
 
 .btn-success:focus {
