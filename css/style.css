@@ -794,6 +794,13 @@ footer .footer-copyright {
 	text-align:center;
 }
 
+.nohome h1 {
+    font-size: 62px;
+    padding-bottom: 14px;
+    margin-bottom: 0px;
+}
+
+
 /* Container for skill bars */
 .container {
     width: 80%; /* Full width */
