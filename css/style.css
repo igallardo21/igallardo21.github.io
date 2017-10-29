@@ -36,6 +36,7 @@ h2,h3 {
 h3 {
   font-size: 26px;
   font-style: italic;
+  text-align:left;
 }
 
 h4 {
