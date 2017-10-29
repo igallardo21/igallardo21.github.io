@@ -796,7 +796,7 @@ footer .footer-copyright {
 
 /* Container for skill bars */
 .container {
-    width: 100%; /* Full width */
+    width: 80%; /* Full width */
 }
 
 .skills {
