@@ -649,7 +649,7 @@ footer hr {
 
 footer .footer-copyright {
   padding-top: 12px;
-  color: #dfcfba;
+  color: #dfcfba important;
 }
 
 
