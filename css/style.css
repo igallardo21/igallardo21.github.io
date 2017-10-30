@@ -797,7 +797,9 @@ footer .footer-copyright {
 .nohome h1 {
     font-size: 42px !important;
 }
-
+.nohome h2 {
+    font-size: 22px!important;
+}
 .nohome h3 {
     font-size: 16px!important;
 }
