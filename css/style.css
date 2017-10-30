@@ -795,15 +795,15 @@ footer .footer-copyright {
 }
 
 .nohome h1 {
-    font-size: 42px;
+    font-size: 42px !important;
 }
 
 .nohome h3 {
-    font-size: 16px;
+    font-size: 16px!important;
 }
 
 .copy p{
-	color: #dfcfba;;
+	color: #dfcfba !important;
 }
 
 /* Container for skill bars */
