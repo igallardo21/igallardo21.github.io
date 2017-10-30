@@ -799,9 +799,11 @@ footer .footer-copyright {
 }
 .nohome h2 {
     font-size: 22px!important;
+	text-align: center!important;
 }
 .nohome h3 {
     font-size: 16px!important;
+	text-align: center!important;
 }
 
 .copy p{
