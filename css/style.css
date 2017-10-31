@@ -393,12 +393,12 @@ a:hover, a:active, a:focus {
 }
 
 #gallery .gallery-thumb img {
-  width: 100%;
+  width: auto;
 }
 
 #gallery .col-md-12 p {
   padding-top: 22px;
-  text-align: center;
+  text-align: justify;
 }
 
 
