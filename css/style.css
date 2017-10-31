@@ -822,21 +822,23 @@ footer .footer-copyright {
 
 /* Container for skill bars */
 .container2 {
-    width: 100%!important;
+    width: 100% !important;
 	
 }
 
 .skills {
     text-align: left; /* Right-align text */
     padding-left: 20px; /* Add some right padding */
-    line-height: 15px; /* Set the line-height to center the text inside the skill bar, and to expand the height of the container */
+    padding-bottom: 20px;
+	line-height: 15px; /* Set the line-height to center the text inside the skill bar, and to expand the height of the container */
     color: #000000; /* White text color */
 }
 
 .skills2 {
     text-align: left; /* Right-align text */
     padding-left: 20px; /* Add some right padding */
-    line-height: 15px; /* Set the line-height to center the text inside the skill bar, and to expand the height of the container */
+    padding-bottom: 20px; 
+	line-height: 15px; /* Set the line-height to center the text inside the skill bar, and to expand the height of the container */
     color: #8A084B; /* White text color */
 }
 
