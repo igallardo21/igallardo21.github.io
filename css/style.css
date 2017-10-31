@@ -832,7 +832,7 @@ footer .footer-copyright {
     line-height: 15px; /* Set the line-height to center the text inside the skill bar, and to expand the height of the container */
     color: #8A084B; /* White text color */
 }
-.box {width: 20%; box-sizing: border-box; background-color: #dfcfba;}
+.box {width: 20%; box-sizing: border-box; background-color: #aaaaaa;}
 
 .four {width: 80%; background-color: #8A084B;}
 .three {width: 60%; background-color: #8A084B;}
