@@ -829,7 +829,7 @@ footer .footer-copyright {
 .skills {
     text-align: left; /* Right-align text */
     padding-left: 20px; /* Add some right padding */
-    padding-bottom: 20px;
+
 	line-height: 15px; /* Set the line-height to center the text inside the skill bar, and to expand the height of the container */
     color: #000000; /* White text color */
 }
@@ -837,14 +837,14 @@ footer .footer-copyright {
 .skills2 {
     text-align: left; /* Right-align text */
     padding-left: 20px; /* Add some right padding */
-    padding-bottom: 20px; 
+    
 	line-height: 15px; /* Set the line-height to center the text inside the skill bar, and to expand the height of the container */
     color: #8A084B; /* White text color */
 }
 
-.box {width: 20%; background-color:#ffffff;   float: left;}
+.box {width: 20%; padding-bottom: 20px; background-color:#ffffff;   float: left;}
 
-.four {width: 80%;  background-color: #8A084B;float: left; }
-.three {width: 60%; background-color: #8A084B; float: left;}
-.two {width: 40%; background-color: #8A084B; float: left;}
-.one {width: 30%; background-color: #8A084B; float: left;}
+.four {width: 80%;  padding-bottom: 20px; background-color: #8A084B;float: left; }
+.three {width: 60%;padding-bottom: 20px;  background-color: #8A084B; float: left;}
+.two {width: 40%; padding-bottom: 20px; background-color: #8A084B; float: left;}
+.one {width: 30%;padding-bottom: 20px;  background-color: #8A084B; float: left;}
