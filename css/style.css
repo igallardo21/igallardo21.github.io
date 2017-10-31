@@ -817,12 +817,12 @@ footer .footer-copyright {
 
 .copy p{
 	color: #dfcfba !important;
-	padding-left: 40px !important;;
+	padding-left: 40px !important;
 }
 
 /* Container for skill bars */
 .container2 {
-    width: 80%; /* Full width */
+    width: 80%!important;
 }
 
 .skills {
