@@ -828,10 +828,13 @@ footer .footer-copyright {
 }
 
 .skills {
-    text-align: left; /* Right-align text */
-    padding-left: 20px; /* Add some right padding */
-
-	line-height: 15px; /* Set the line-height to center the text inside the skill bar, and to expand the height of the container */
+	color: #777;
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 26px;
+    letter-spacing: 0.2px;
+	text-align: justify;
+	
     color: #000000; /* White text color */
 }
 
