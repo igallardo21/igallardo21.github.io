@@ -830,11 +830,11 @@ footer .footer-copyright {
     text-align: left; /* Right-align text */
     padding-left: 20px; /* Add some right padding */
     line-height: 15px; /* Set the line-height to center the text inside the skill bar, and to expand the height of the container */
-    color: #000000; /* White text color */
+    color: #ffffff; /* White text color */
 }
-.box {width: 20%; box-sizing: border-box; background-color: #ffffff;  float: left;}
+.box {width: 20%; box-sizing: border-box; background-color: #000000;  float: left;}
 
 .four {width: 80%; box-sizing: border-box; background-color: #8A084B;  float: left;}
-.three {width: 60%; background-color: #8A084B;}
-.two {width: 40%; background-color: #8A084B;}
-.one {width: 20%; background-color: #8A084B;}
+.three {width: 60%; box-sizing: border-box;background-color: #8A084B; float: left;}
+.two {width: 40%; box-sizing: border-box;background-color: #8A084B;  float: left;}
+.one {width: 20%;box-sizing: border-box; background-color: #8A084B; float: left;}
