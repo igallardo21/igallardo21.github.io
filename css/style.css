@@ -110,7 +110,7 @@ a:hover, a:active, a:focus {
 .main-single-post,
 .main-gallery,
 .main-contact {
-  height: 35vh;
+  height: 15vh;
 }
 
 
@@ -281,7 +281,7 @@ a:hover, a:active, a:focus {
 
 .main-home {
   background: url('../images/home-bg.jpg') no-repeat;
-  height: 75vh;
+  height: 45vh;
 }
 
 .main-about {
