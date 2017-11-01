@@ -759,11 +759,11 @@ footer .footer-copyright {
 @media (max-width: 768px) {
 
   h1 {
-    font-size: 52px;
+    font-size: 47px;
   }
 
   h2 {
-    font-size: 26px;
+    font-size: 22px;
   }
 
   #about .col-md-6 img {
@@ -784,7 +784,7 @@ footer .footer-copyright {
 @media (max-width: 650px) {
 
   h1 {
-    font-size: 42px;
+    font-size: 37px;
   }
 
   #about, #gallery,
