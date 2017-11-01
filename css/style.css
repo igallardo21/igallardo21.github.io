@@ -831,9 +831,7 @@ footer .footer-copyright {
 	color: #777;
     font-size: 15px;
     text-align: left; /* Right-align text */
-    padding-left: 20px; /* Add some right padding */
-
-	line-height: 15px; /* Set the line-height to center the text inside the skill bar, and to expand the height of the container */
+    line-height: 15px; /* Set the line-height to center the text inside the skill bar, and to expand the height of the container */
     
 }
 
@@ -847,7 +845,7 @@ footer .footer-copyright {
 
 .box {width: 25%; box-sizing: border-box; background-color:#ffffff;   float: left;}
 
-.four {width: 60%;  box-sizing: border-box;background-color: #8A084B;float: left; }
-.three {width: 45%;box-sizing: border-box;background-color: #8A084B; float: left;}
-.two {width: 30%; box-sizing: border-box;background-color: #8A084B; float: left;}
-.one {width: 15%;box-sizing: border-box;background-color: #8A084B; float: left;}
+.four {width: 55%;  box-sizing: border-box;background-color: #8A084B;float: left; }
+.three {width: 40%;box-sizing: border-box;background-color: #8A084B; float: left;}
+.two {width: 25%; box-sizing: border-box;background-color: #8A084B; float: left;}
+.one {width: 10%;box-sizing: border-box;background-color: #8A084B; float: left;}
