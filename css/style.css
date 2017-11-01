@@ -829,7 +829,7 @@ footer .footer-copyright {
 
 .skills {
 	color: #777;
-    font-size: 18px;
+    font-size: 15px;
     text-align: left; /* Right-align text */
     padding-left: 20px; /* Add some right padding */
 
@@ -841,13 +841,13 @@ footer .footer-copyright {
     text-align: left; /* Right-align text */
     padding-left: 20px; /* Add some right padding */
     
-	line-height: 15px; /* Set the line-height to center the text inside the skill bar, and to expand the height of the container */
+	line-height: 10px; /* Set the line-height to center the text inside the skill bar, and to expand the height of the container */
     color: #8A084B; /* White text color */
 }
 
-.box {width: 20%; box-sizing: border-box; background-color:#ffffff;   float: left;}
+.box {width: 25%; box-sizing: border-box; background-color:#ffffff;   float: left;}
 
-.four {width: 80%;  box-sizing: border-box;background-color: #8A084B;float: left; }
-.three {width: 60%;box-sizing: border-box;background-color: #8A084B; float: left;}
-.two {width: 40%; box-sizing: border-box;background-color: #8A084B; float: left;}
-.one {width: 30%;box-sizing: border-box;background-color: #8A084B; float: left;}
+.four {width: 60%;  box-sizing: border-box;background-color: #8A084B;float: left; }
+.three {width: 45%;box-sizing: border-box;background-color: #8A084B; float: left;}
+.two {width: 30%; box-sizing: border-box;background-color: #8A084B; float: left;}
+.one {width: 15%;box-sizing: border-box;background-color: #8A084B; float: left;}
